@@ -7,7 +7,7 @@ package cardgame;
 
 /**
  *
- * @author vikra
+ * @author Amisha modi
  */
 
     public class Card {
